@@ -2,3 +2,7 @@ tree
 plant
 ilo plants
 super plants
+uio
+ufo
+umo
+
