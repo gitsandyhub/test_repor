@@ -1,3 +1,7 @@
 apple
 mango
 strawberry
+fork
+clone
+messy
+test
